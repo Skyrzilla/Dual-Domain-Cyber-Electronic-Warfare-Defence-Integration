@@ -41,7 +41,4 @@ All components run through a unified controller that launches the website, detec
   - Terminal-based cyber monitoring dashboard  
   - Web-based RF/EW spectrum dashboard  
 
----
-
-## 🧩 System Architecture
 
